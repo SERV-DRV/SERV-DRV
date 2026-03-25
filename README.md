@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">🐉 Rayquaza Dev 🐉</h1>
 
-<!--
-**SERV-DRV/SERV-DRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.tenor.com/4k6cQeX5qgQAAAAC/rayquaza-pokemon.gif" width="400">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Sobre mí
+🌩️ Programador bajo la protección de Rayquaza  
+☁️ Amante del código y el cielo  
+🚀 Aprendiendo desarrollo web  
+
+---
+
+## 🧬 Tecnologías
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff88)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88)
+
+---
+
+## 📊 Poder de batalla
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=merko)
+
+---
+
+<p align="center">☄️ "Rayquaza protege este perfil desde la estratósfera" ☄️</p>
