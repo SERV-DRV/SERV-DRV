@@ -133,7 +133,7 @@ Every project is a new challenge — approached with discipline, curiosity, and 
 <div align="center">
 
 ```
-  "El que deja de mejorar, deja de ser bueno."
+  "El que diga que pokémon es de gente sin vida, se confirma."
                                           — SERV-DRV
 ```
 
