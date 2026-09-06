@@ -102,6 +102,10 @@ I approach every project as a new challenge — with discipline, curiosity, and 
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
 <br>MongoDB
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastApi" />
+<br>FastAPI
+</td>
 </tr>
 <tr>
 <td align="center" width="96">
@@ -139,8 +143,36 @@ I approach every project as a new challenge — with discipline, curiosity, and 
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Supabase" />
+<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
 <br>Discord
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="Idea" />
+<br>IntelliJ IDEA
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="linkedin" />
+<br>Linkedin
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="md" />
+<br>MD
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="notion" />
+<br>Notion
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+<br>NPM
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="PNPM" />
+<br>PNPM
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
 </td>
 </tr>
 </table>
