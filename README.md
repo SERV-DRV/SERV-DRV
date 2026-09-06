@@ -19,9 +19,7 @@ I approach every project as a new challenge — with discipline, curiosity, and 
 
 <h3>👨‍💻 Terminal</h3>
 <!-- Animated Terminal typing effect -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00C896&background=0A1A0F&center=false&vCenter=false&multiline=true&width=500&height=130&lines=SERV-DRV%3A~%24+whoami;%3E+Full+Stack+Developer;SERV-DRV%3A~%24+cat+studying.txt;%3E+Python;SERV-DRV%3A~%24+echo+%24MOTTO;%3E+Code+in+silence.+Results+speak+first." alt="Terminal"/>
-</a>
+<img src="./terminal.svg" alt="Terminal"/>
 </td>
 <td width="35%" align="center" valign="middle">
 <!-- Imagen sin fondo que señala el texto -->
@@ -119,7 +117,7 @@ I approach every project as a new challenge — with discipline, curiosity, and 
 <br>Git
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Git" />
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Git Bash" />
 <br>Git
 </td>
 <td align="center" width="96">
@@ -137,6 +135,12 @@ I approach every project as a new challenge — with discipline, curiosity, and 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
 <br>Vercel
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Supabase" />
+<br>Discord
 </td>
 </tr>
 </table>
