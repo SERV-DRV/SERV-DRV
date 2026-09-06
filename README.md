@@ -70,7 +70,11 @@ I approach every project as a new challenge — with discipline, curiosity, and 
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Node.js" />
-<br>Node.js
+<br>Android Studio
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
+<br>SpringBoot
 </td>
 </tr>
 <tr>
@@ -106,6 +110,10 @@ I approach every project as a new challenge — with discipline, curiosity, and 
 <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastApi" />
 <br>FastAPI
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+<br>Tailwind
+</td>
 </tr>
 <tr>
 <td align="center" width="96">
@@ -122,7 +130,7 @@ I approach every project as a new challenge — with discipline, curiosity, and 
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Git Bash" />
-<br>Git
+<br>Git Bash
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
@@ -139,6 +147,10 @@ I approach every project as a new challenge — with discipline, curiosity, and 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
 <br>Vercel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+<br>Visual Studio
 </td>
 </tr>
 <tr>
@@ -173,6 +185,10 @@ I approach every project as a new challenge — with discipline, curiosity, and 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
 <br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+<br>Windows
 </td>
 </tr>
 </table>
