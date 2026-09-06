@@ -1,6 +1,10 @@
 <div align="center">
 
+<!-- ── Typing header (RESTORED) ──────────────────────────────── -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3500&pause=1200&color=00C896&center=true&vCenter=true&width=700&lines=SERV-DRV;Full+Stack+Developer;Software+Engineer;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+
 <!-- ── Visitor badge ─────────────────────────────────────────── -->
+<br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://komarev.com/ghpvc/?username=SERV-DRV&label=DEVS+VISITING&color=00C896&style=flat-square" alt="Visitors"/>
 </a>
@@ -14,16 +18,10 @@
       I approach every project as a new challenge — with discipline, curiosity, and a deep focus on writing clean, maintainable code.</p>
       
       <h3>👨‍💻 Terminal</h3>
-      <!-- Python Console Mockup -->
-      <pre lang="python"><code>&gt;&gt;&gt; from developer import SERV_DRV
-&gt;&gt;&gt; me = SERV_DRV()
-&gt;&gt;&gt; me.role
-'Full Stack Developer'
-&gt;&gt;&gt; me.studying
-['Python', 'New Web Technologies']
-&gt;&gt;&gt; me.motto
-'Code in silence. Results speak first.'
-</code></pre>
+      <!-- Animated Terminal typing effect -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00C896&background=0A1A0F&center=false&vCenter=false&multiline=true&width=500&height=130&lines=SERV-DRV%3A~%24+whoami;%3E+Full+Stack+Developer;SERV-DRV%3A~%24+cat+studying.txt;%3E+Python;SERV-DRV%3A~%24+echo+%24MOTTO;%3E+Code+in+silence.+Results+speak+first." alt="Terminal"/>
+      </a>
     </td>
     <td width="35%" align="center" valign="middle">
       <!-- Imagen sin fondo que señala el texto -->
